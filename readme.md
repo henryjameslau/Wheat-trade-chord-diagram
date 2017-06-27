@@ -1,0 +1,1 @@
+Visualisation based from delimited.io [blog posts on chord diagrams in D3](http://www.delimited.io/blog/2013/12/8/chord-diagrams-in-d3). 
